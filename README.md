@@ -1,3 +1,11 @@
+Jared Borst, 12/13/2020
+
+This is a project with an attempt of redoing GrubHub's homepage/adding pages to their website and overall was a redesign effort. 
+It's not perfect, and I rushed it a lot because I didn't leave myself much time to do the majority of it. I started work on it yesterday and only today did i get it to a state that I am happy with. I wish I could've implemented more features, but my time is out, so what I have is what i must submit. 
+
+Sorry to Professor Awwal, I wanted to create something cooler and more feature heavy than this, but I ran out of time.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
