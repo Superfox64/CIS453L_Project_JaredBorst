@@ -6,6 +6,8 @@ It's not perfect, and I rushed it a lot because I didn't leave myself much time 
 Sorry to Professor Awwal, I wanted to create something cooler and more feature heavy than this, but I ran out of time.
 
 
+Build instructions are not really relevant, you'd need to have the whole directory for it to function, or to implement the files I've uploaded into a blank React App. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
